@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=js3Zjxbo8TM
 ![image](https://user-images.githubusercontent.com/50616498/114485133-86a94b00-9c5f-11eb-8241-d3467eb69063.png)
 ![image](https://user-images.githubusercontent.com/50616498/114485189-9a54b180-9c5f-11eb-9631-2c8028735326.png)
 
-### Case Studies
+# Case Studies
 https://www.hyperledger.org/learn/publications/kiva-case-study
 https://www.hyperledger.org/wp-content/uploads/2017/12/Hyperledger_CaseStudy_Sony.pdf
 
